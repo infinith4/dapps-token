@@ -1,0 +1,26 @@
+{
+  "name": "dapps-token",
+  "version": "1.0.0",
+  "description": "https://github.com/tys-hiroshi/EIPs/blob/master/EIPS/eip-20.md",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tys-hiroshi/dapps-token.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tys-hiroshi/dapps-token/issues"
+  },
+  "homepage": "https://github.com/tys-hiroshi/dapps-token#readme"
+}
